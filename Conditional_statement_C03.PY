@@ -4,7 +4,7 @@ if x > 5:
     print("x is greater than 5")
 else:
     print("x is not greater than 5")
-------
+# ------
 marks = 72
 
 if marks >= 90:
@@ -15,7 +15,7 @@ elif marks >= 50:
     print("Grade: C")
 else:
     print("Grade: Fail")
----------
+# ---------
 num = 15
 
 if num > 0:
