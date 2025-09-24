@@ -182,7 +182,7 @@ for i in range(1, 4):
 ~                                                                                                                                             
 ~                                                                                                                                             
 ~                                                                                                                                             
-#"Continue_Statement.py" 38L, 694B
+#"Continue_Statement.py" 
 
 names = ["Alice", "Bob", "Charlie", "David"]
 
@@ -233,7 +233,7 @@ for i in range(1, 10):
 ~                                                                                                                                             
 ~                                                                                                                                             
 ~                                                                                                                                             
-#"Break_Statements.py" 34L, 547B
+#"Break_Statements.py" 
 ~                                                                                                                                             
 ~                                                                                                                                             
 ~                                                                                                                                             
