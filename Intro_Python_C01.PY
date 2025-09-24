@@ -18,7 +18,7 @@ c=a+b
 print(type(c))
 print(c)
 
-------------
+#------------
 
 a = True
 b = False
@@ -30,7 +30,7 @@ print("a == b:", a == b)
 print("a or b:", a or b)
 print("a and b:", a and b)
 
-------------
+#------------
 z1 = 3 + 4j
 z2 = 1 - 2j
 z3 = z1 * z2
