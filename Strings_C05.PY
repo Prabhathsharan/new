@@ -47,4 +47,4 @@ print(text[7:])     # 'World!'
 ~                                                                                                                                             
 ~                                                                                                                                             
 ~                                                                                                                                             
-"str.py" 35L, 403B
+"str.py" 
