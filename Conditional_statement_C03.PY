@@ -171,17 +171,8 @@ for i in range(1, 4):
             continue
         print(f"i={i}, j={j}")
 
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
+                                                                                                                                        
+                                                                                                                                            
 #"Continue_Statement.py" 
 
 names = ["Alice", "Bob", "Charlie", "David"]
@@ -216,34 +207,5 @@ while True:
 for i in range(1, 10):
     if i == 5:
         break
-    print(i)
-
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
+    print(i)                                                                                                                                                                                                                                                                           
 #"Break_Statements.py" 
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                             
-~                                                                                                                                   
